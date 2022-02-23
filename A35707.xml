@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Deportment and carriage of the German princess immediately befor her execution and her last speech at Tyburn, being on Wednesday the 22th of January, 1672.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35707</idno>
+            <idno type="STC">Wing D1077A</idno>
+            <idno type="STC">ESTC R29711</idno>
+            <idno type="EEBO-CITATION">11196244</idno>
+            <idno type="OCLC">ocm 11196244</idno>
+            <idno type="VID">46678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46678)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Deportment and carriage of the German princess immediately befor her execution and her last speech at Tyburn, being on Wednesday the 22th of January, 1672.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Brooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carleton, Mary, 1642?-1673.</term>
+               <term>Trials --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46678:1"/>
+            <pb facs="tcp:46678:1"/>
+            <p>THE DEPORTMENT AND CARRIAGE OF THE German Princeſs, Immediately before her EXECUTION: AND Her laſt SPEECH at <hi>TYB<g ref="char:V">Ʋ</g>RN:</hi> Being on <hi>Wedneſday</hi> the 22<hi rend="sup">th</hi> of <hi>January,</hi> 1672.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nath. Brooke</hi> at the <hi>Angel</hi> in <hi>Cornhill,</hi> near the <hi>Royal-Exchange.</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46678:2"/>
+            <pb n="1" facs="tcp:46678:2"/>
+            <head>THE DEPORTMENT AND SPEECH OF THE <hi>GERMAN PRINCESSE</hi> Before her Execution at <hi>Tyburn, January</hi> 22. MDCLXXII.</head>
+            <p>
+               <hi>MARY CARLTON,</hi> commonly known by the Name of the <hi>German Princeſs,</hi> being brought from the <hi>Marſhalſey</hi> in <hi>Southwark</hi> to <hi>Justice-Hall</hi> in the <hi>Old-Bailey,</hi> in order to her Tryal for ſeveral Crimes and Misdemeanors for<g ref="char:EOLhyphen"/>merly committed by her, was accordingly Ar<g ref="char:EOLhyphen"/>raign'd at the Bar on <hi>Thurſday</hi> the Sixteenth of this inſtant <hi>January,</hi> and on <hi>Friday</hi> the Seventeenth was
+<pb n="2" facs="tcp:46678:3"/>Indicted for ſtealing a piece of Plate from an Inha<g ref="char:EOLhyphen"/>bitant in <hi>Chancery-Lane,</hi> to which Indictment ſhe pleaded <hi>Not Guilty;</hi> but upon full Evidence was found <hi>Guilty,</hi> and ſo to avoid the Sentence of Con<g ref="char:EOLhyphen"/>demnation, pleaded <hi>her Belly.</hi> Whereupon a Jury of Women was Impannell'd, and after long and ſerious Conſultation and Debate they brought her in <hi>Not quick with Child;</hi> ſo that ſhe was ſentenced to Dye (according to Law in ſuch Caſes provided) on <hi>Wedneſday</hi> following, which was the Two and Twentieth inſtant, and accordingly went Carted to <hi>Tyburn</hi> in order to her Execution.</p>
+            <p>As to her deportment in Priſon the ſaid day of her deſigned Execution, ſhe was found in a far more quiet and calm poſture than the night before, and better fitted for Death, according to all humane conjecture; heartily deſiring her expected and deſerved diſſolution. And herein to be juſt to her, ſhe did ſhew the abſolute ſym<g ref="char:EOLhyphen"/>ptoms of a true Penitent; for her Ejaculations were as pious and pathetical, as her former Life had been enormous and criminal. She did vo<g ref="char:EOLhyphen"/>luntarily upon her own account, without any inſtigation from a ſecond perſon, confeſs the hainouſneſs of her Sins; though withall ſhe deſired that the Spectators and Auditors would be ſo much friends to Juſtice, as not to give credit to all vain Rumors that were reported of her. A Pardon ſhe did declare, neither to expect, nor deſire: Death ſhe had deſerv'd, and was very
+<pb n="3" facs="tcp:46678:3"/>willing to undergo that hard and heavy task; and withall that ſhe was fully ſatisfied in all par<g ref="char:EOLhyphen"/>ticulars, and fit to taſte of that bitter Cup. When ſhe heard the Bell at St. <hi>Sepulchres</hi> Toll, ſhe us'd this Expreſſion: <hi>This is my Paſſing-Bell, Lord Jeſus I am coming to thee. There is no perſon knows what it is to be under the terrours of the Al<g ref="char:EOLhyphen"/>mighty, but thoſe that have felt them. O my Saviour! I am coming. Lord ſtrengthen me; Lord step between me and poor weak Nature. O how doth Nature cling to me, and is unwilling to leave me! It was a trouble to me at firſt to dye, but now I have overcome it, and am ſatisfied.</hi>
+            </p>
+            <p>One thing ſhe her ſelf took notice of, and ac<g ref="char:EOLhyphen"/>quainted the Company withal of her own accord, telling them it deſerv'd their Obſervation, <hi>viz.</hi> This day (being the day of Execution) was the day of my Baptiſm: I was Born on the <hi>11th</hi> of <hi>January,</hi> and Baptiz'd on the <hi>22th;</hi> to which ſhe added this Zealous, paſſionate and <hi>Chriſtian</hi> like Expreſſion; This day I was Baptiz'd, and before night I expect to be ſprinkled with the blood of the Lamb, which is a ſecond Baptiſm. 'Tis true, (though 'twill hardly be believ'd) that this vitious Woman, guilty of ſuch groſs Immoralities, did dye well ſatisfied and unconcern'd, with a Reſolu<g ref="char:EOLhyphen"/>tion and Courage beyond the weakneſs of her frail Sex. Her Siſter, (and another Relation to whom ſhe comitted the care of her decent Burial) were preſent with her immediately before ſhe went
+<pb n="4" facs="tcp:46678:4"/>to Execution, lamenting her ſad and deplorable condition; ſhe deſir'd them to be ſatisfied as ſhe was, and not to mourn and ſhed tears; for that did but exaſperate her grief, and increaſe her trouble. As to her Religion, ſhe did declare be<g ref="char:EOLhyphen"/>fore her departure that ſhe was, and would dye a <hi>Roman Catholick,</hi> as ſhe did undoubtedly. And thus ſhe was committed to the Cart; and when ſhe came to <hi>Tyburn,</hi> after ſhe had devoutly pray'd with a chearful and unalter'd Countenance, ſhe deſir'd to know whether ſhe might ſpeak to the People. To which a Perſon there preſent re<g ref="char:EOLhyphen"/>ply'd, Your voice is low and will not be heard by the multitude here preſent, but if you will ac<g ref="char:EOLhyphen"/>quaint me with your deſire, I will diſcourſe it to them afterwards. Then ſhe began a ſhort Speech in theſe words following.</p>
+            <p>
+               <hi>YOu will make me a Preſident for ſin. I confeſs I have been a vain Woman; I have had in the World Glory and Miſery in abundance; and let all People beware of ill Company. The World hath condemn'd me, and I have much to anſwer; pray God for<g ref="char:EOLhyphen"/>give me, and my Husband likewiſe. I be<g ref="char:EOLhyphen"/>ſeech God lay nothing to his charge for my fault.</hi>
+            </p>
+            <pb n="5" facs="tcp:46678:4"/>
+            <p> Thereupon a Perſon that was there preſent askt her this queſtion. Have you any thing to your Husband? To which ſhe modeſtly reply'd; <hi>Only my Recommendations; that he would ſerve God and repent; for I fear he wants ſober admonition; and I beſeech God lay nothing to his charge on my account. And what wrong I have done him, I hope he will for<g ref="char:EOLhyphen"/>give me, I forgive him.</hi> To which one made anſwer, then ſo in perfect Charity you dye with all the World? And ſhe replyed very ſeriouſly, <hi>Yes, I do;</hi> and ſo with many devout Ejaculations, ſuch as, <hi>Lord Jeſus receive my ſoul! Lord have mercy upon me!</hi> frequently reiterated and repea<g ref="char:EOLhyphen"/>ted, ſhe departed this life.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:46678:5"/>
+            <p>
+               <hi>YOu may very ſpeedily expect more at large</hi> The <hi>Memoirs</hi> of the <hi>German Princeſs,</hi> with an exact Narrative of her Life and Death, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:46678:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
